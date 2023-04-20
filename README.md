@@ -4,7 +4,9 @@
 
 # How it is work?
 - Download https://www.autohotkey.com/download/ahk-install.exe
-- Goto C:\
-- Create new folder name it C DISK
-- Inside C DISK folder create new folder name it APPS
-- 
+- Download the script https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/archive/refs/heads/main.zip
+- Extract the Zip
+- copy/paste a.ahk and Z HK.xml files into C:\
+- Open Task Scheduler
+- In right panel press import task
+- Import HK.xml file
