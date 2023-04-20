@@ -10,3 +10,20 @@
 - Open Task Scheduler
 - In right panel press import task
 - Import HK.xml file
+- Follow the following steps as showing in the images:
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/1.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/2.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/3.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/4.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/5.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/6.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/7.PNG)
+
+![image](https://github.com/HeiderJeffer/AutoHotkey-Heider-Jeffer-Scripts/blob/main/img/8.PNG)
+
