@@ -7,4 +7,4 @@
 - Goto C:\
 - Create new folder name it C DISK
 - Inside C DISK folder create new folder name it APPS
--
+- 
